@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rakesh Roy</h1>
 
 <h3 align="center">
-Backend Developer | NestJS | Laravel | AWS | MySQL | Redis
+System designer | NestJS | Laravel | AWS | Postgresql | Redis | React | AI
 </h3>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Working with scalable backend systems
-- 🌱 Currently learning advanced AWS deployment & DevOps
+- 🔭 Working with scalable backend systems and design
+- 🌱 Currently learning advanced AWS deployment & AI & ML & DevOps 
 - 💻 Tech Stack: NestJS, Laravel, MySQL, Redis, Docker, AWS
 - ⚡ Interested in performance optimization & scalable scraping systems
 - 📍 Based in Bangladesh
@@ -116,3 +116,9 @@ Backend Developer | NestJS | Laravel | AWS | MySQL | Redis
 # 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=RakeshRoy1995&color=blue)
+
+# 👀 DevCard 
+
+<a href="https://app.daily.dev/rakeshroy"><img src="https://api.daily.dev/devcards/v2/1EPqPu5mN4c8bmkYsY5aJ.png?type=default&r=dui" width="356" alt="Rakesh Roy's Dev Card"/></a>
+
+
