@@ -33,6 +33,46 @@ Backend Developer | NestJS | Laravel | AWS | MySQL | Redis
 
 ---
 
+# 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/RakeshRoy1995/a2i-noipunno">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=a2i-noipunno&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/hellochef">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=hellochef&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/AI-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=AI-project&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/kafka-order-inventory-shipping-test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=kafka-order-inventory-shipping-test&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/ci-cd-test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=ci-cd-test&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development-Ingress">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=sample-k8s-node-mysql-development-Ingress&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/docker-bind-volume-example">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=docker-bind-volume-example&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=sample-k8s-node-mysql-development&theme=tokyonight" />
+</a>
+
+</p>
+
+
+
 # 📊 GitHub Stats
 
 <p align="center">
