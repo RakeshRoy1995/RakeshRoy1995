@@ -35,41 +35,29 @@ Backend Developer | NestJS | Laravel | AWS | MySQL | Redis
 
 # 📌 Featured Projects
 
-<p align="center">
+- 🚀 [a2i-noipunno](https://github.com/RakeshRoy1995/a2i-noipunno)  
+  Government education evaluation system for students (2023–2024), named Noipunno.
 
-<a href="https://github.com/RakeshRoy1995/a2i-noipunno">
-  Govt Education evalution system for all student in 2023 - 2024. Named noipunno
-</a>
+- 🍔 [hellochef](https://github.com/RakeshRoy1995/hellochef)  
+  https://hallochefco.com — Food delivery platform similar to Foodpanda.
 
-<a href="https://github.com/RakeshRoy1995/hellochef">
-  https://hallochefco.com . hellochef is a project like foodpanda.
-</a>
+- 🤖 [AI-project](https://github.com/RakeshRoy1995/AI-project)  
+  AI-powered application where users can ask questions and filter products using text prompts.
 
-<a href="https://github.com/RakeshRoy1995/AI-project">
-  Here you can ask any question and it will response you accordingly. You can filter products by your text prompt
-</a>
+- 📦 [kafka-order-inventory-shipping-test](https://github.com/RakeshRoy1995/kafka-order-inventory-shipping-test)  
+  Kafka microservices testing project with Order, Inventory, and Shipping services.
 
-<a href="https://github.com/RakeshRoy1995/kafka-order-inventory-shipping-test">
-  Kafka tesing with 3 services Order , inventory , shipping 
-</a>
+- ⚙️ [ci-cd-test](https://github.com/RakeshRoy1995/ci-cd-test)  
+  Complete CI/CD implementation including rollback, tagging, environment-wise deployment (dev/stage/prod), blue-green deployment, Docker, Kubernetes, and AWS EKS.
 
-<a href="https://github.com/RakeshRoy1995/ci-cd-test">
-  All logic of ci/cd. Roleback , tag , production/ dev/ stage wise deploy , green blue deployment with docker , kubernetes deployement with EKS
-</a>
+- ☸️ [sample-k8s-node-mysql-development-Ingress](https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development-Ingress)  
+  Kubernetes ingress-based Node.js + MySQL deployment example.
 
-<a href="https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development-Ingress">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=sample-k8s-node-mysql-development-Ingress&theme=tokyonight" />
-</a>
+- 🐳 [docker-bind-volume-example](https://github.com/RakeshRoy1995/docker-bind-volume-example)  
+  Docker bind volume example for persistent development environments.
 
-<a href="https://github.com/RakeshRoy1995/docker-bind-volume-example">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=docker-bind-volume-example&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=sample-k8s-node-mysql-development&theme=tokyonight" />
-</a>
-
-</p>
+- 🛠️ [sample-k8s-node-mysql-development](https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development)  
+  Sample Kubernetes setup for Node.js and MySQL development environment.
 
 
 
