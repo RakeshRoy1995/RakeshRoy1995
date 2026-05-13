@@ -42,19 +42,19 @@ Backend Developer | NestJS | Laravel | AWS | MySQL | Redis
 </a>
 
 <a href="https://github.com/RakeshRoy1995/hellochef">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=hellochef&theme=tokyonight" />
+  https://hallochefco.com . hellochef is a project like foodpanda.
 </a>
 
 <a href="https://github.com/RakeshRoy1995/AI-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=AI-project&theme=tokyonight" />
+  Here you can ask any question and it will response you accordingly. You can filter products by your text prompt
 </a>
 
 <a href="https://github.com/RakeshRoy1995/kafka-order-inventory-shipping-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=kafka-order-inventory-shipping-test&theme=tokyonight" />
+  Kafka tesing with 3 services Order , inventory , shipping 
 </a>
 
 <a href="https://github.com/RakeshRoy1995/ci-cd-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=ci-cd-test&theme=tokyonight" />
+  All logic of ci/cd. Roleback , tag , production/ dev/ stage wise deploy , green blue deployment with docker , kubernetes deployement with EKS
 </a>
 
 <a href="https://github.com/RakeshRoy1995/sample-k8s-node-mysql-development-Ingress">
