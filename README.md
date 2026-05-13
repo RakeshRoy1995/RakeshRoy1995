@@ -38,7 +38,7 @@ Backend Developer | NestJS | Laravel | AWS | MySQL | Redis
 <p align="center">
 
 <a href="https://github.com/RakeshRoy1995/a2i-noipunno">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshRoy1995&repo=a2i-noipunno&theme=tokyonight" />
+  Govt Education evalution system for all student in 2023 - 2024. Named noipunno
 </a>
 
 <a href="https://github.com/RakeshRoy1995/hellochef">
